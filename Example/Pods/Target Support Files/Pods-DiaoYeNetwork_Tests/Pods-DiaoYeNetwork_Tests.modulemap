@@ -1,0 +1,6 @@
+framework module Pods_DiaoYeNetwork_Tests {
+  umbrella header "Pods-DiaoYeNetwork_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

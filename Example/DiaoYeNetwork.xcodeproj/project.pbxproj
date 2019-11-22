@@ -346,11 +346,11 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-DiaoYeNetwork_Example/Pods-DiaoYeNetwork_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/DiaoYeNetwork/DiaoYeNetwork.framework",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DiaoYeNetwork.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
