@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DiaoYeNetwork_Example' do
+  pod 'DiaoYeNetwork', :path => '../'
+
+  target 'DiaoYeNetwork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
